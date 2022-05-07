@@ -17,16 +17,22 @@ h1{
   color: rgb(243, 235, 235);
   margin-bottom: 1em;
 }
-.string-holder{
+#string-holder{
   color: rgb(243, 235, 235);
   margin-bottom: 1em;
 }
-#string{
+.input{
   padding: 0.5em;
   border: 0;
   border-radius: 0.2em;
   width: 20%;
   outline: none;
+}
+#string-2{
+  margin-left: 0.3em;
+}
+.input-container{
+  margin-bottom: 1em;
 }
 button{
   padding: 0.5em;
@@ -34,5 +40,5 @@ button{
   font-weight: 900;
   color: rgb(9, 9, 43);
   cursor: pointer;
-  margin-left: 0.5em;
+  
 }
